@@ -1,11 +1,8 @@
 # Konstantin Salyaev
 
-### 🚀 About Me  
-- 💡 Backend golang developer
-- 🎯 Focused on scalability & performance  
-- 📍 Exploring distributed systems & event-driven architecture  
+🎯 Hesitation is defeat
 
-### 🔧 Technologies  
+## 🔧 Technologies  
 
 | Category           | Technologies |
 |--------------------|-------------|
@@ -13,16 +10,19 @@
 | **🎨 Frontend**       | JavaScript |
 | **🐳 Containers & Orchestration** | Docker, Kubernetes, Docker Compose |
 | **📩 Message Brokers** | Kafka, RabbitMQ |
-| **⚡ Databases & Caching** | PostgreSQL, MongoDB, Redis |
-
+| **💾 Databases** | PostgreSQL, MongoDB |
+| **⚡ Caching** | Redis |
 ---
   
-#### 📈 Summary Cards  
+### 📈 Stats 
 [![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saljaev&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 ![Metrics](https://github.com/saljaev/saljaev/blob/main/github-metrics.svg)
 ___
 
 ### 📫 Contact with me
  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sa1yaev)  
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/salyaevka)  
+| Platform | Link |
+|----------|------|
+| [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sa1yaev) | t.me/sa1yaev |
+| [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/salyaevka) | vk.com/salyaevka |
+| [![Mail](https://img.shields.io/badge/Mail-FF0000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:r.cf2003@yandex.ru) | r.cf2003@yandex.ru |
