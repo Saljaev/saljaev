@@ -1,16 +1,28 @@
-## Hi there 👋
+# Konstantin Salyaev
 
-<!--
-**Saljaev/saljaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 💡 Backend golang developer
+- 🎯 Focused on scalability & performance  
+- 📍 Exploring distributed systems & event-driven architecture  
 
-Here are some ideas to get you started:
+### 🔧 Technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category           | Technologies |
+|--------------------|-------------|
+| **⚙️ Backend**        | Go |
+| **🎨 Frontend**       | JavaScript |
+| **🐳 Containers & Orchestration** | Docker, Kubernetes, Docker Compose |
+| **📩 Message Brokers** | Kafka, RabbitMQ |
+| **⚡ Databases & Caching** | PostgreSQL, MongoDB, Redis |
+
+---
+  
+#### 📈 Summary Cards  
+[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saljaev&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+![Metrics](https://github.com/saljaev/saljaev/blob/main/github-metrics.svg)
+___
+
+### 📫 Contact with me
+ 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sa1yaev)  
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/salyaevka)  
