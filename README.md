@@ -15,8 +15,10 @@
 ---
   
 ### 📈 Stats 
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saljaev&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-![Metrics](https://github.com/saljaev/saljaev/blob/main/github-metrics.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saljaev&show_icons=true&theme=tokyonight) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saljaev&layout=compact&theme=tokyonight)
+
 ___
 
 ### 📫 Contact with me
